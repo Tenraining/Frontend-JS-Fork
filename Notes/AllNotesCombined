@@ -13,3 +13,6 @@
 - One function does one job
 - Re-rendering, one for every thing inside the container (check .map example)
 .
+
+## Files
+- Function names should match file names -> files have the same name as the component
